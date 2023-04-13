@@ -1,0 +1,24 @@
+algorithm
+1/1
+completed
+discrete math
+4/5
+under progress
+data compression
+7/8
+under progress
+operating system
+5/5
+completed
+statistics 2
+3/4
+completed
+artificial intelligance
+3/3
+completed
+math3
+2/2
+completed
+ds
+1/1
+completed

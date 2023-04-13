@@ -1,0 +1,3 @@
+C:/Users/EGYPT/Music/FCICB/Updated to do list/cmake-build-debug/CMakeFiles/Updated_to_do_list.dir
+C:/Users/EGYPT/Music/FCICB/Updated to do list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EGYPT/Music/FCICB/Updated to do list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

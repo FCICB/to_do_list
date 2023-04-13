@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/EGYPT/Music/FCICB/Updated to do list/fileHandling.h
+string
+-
+iostream
+-
+vector
+-
+task.h
+C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
+fstream
+-
+
+C:/Users/EGYPT/Music/FCICB/Updated to do list/list.h
+string
+-
+iostream
+-
+vector
+-
+fstream
+-
+task.h
+C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
+fileHandling.h
+C:/Users/EGYPT/Music/FCICB/Updated to do list/fileHandling.h
+
+C:/Users/EGYPT/Music/FCICB/Updated to do list/screen.cpp
+screen.h
+C:/Users/EGYPT/Music/FCICB/Updated to do list/screen.h
+
+C:/Users/EGYPT/Music/FCICB/Updated to do list/screen.h
+iostream
+-
+fstream
+-
+vector
+-
+task.h
+C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
+list.h
+C:/Users/EGYPT/Music/FCICB/Updated to do list/list.h
+
+C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
+string
+-
+iostream
+-
+
