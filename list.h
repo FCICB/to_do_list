@@ -19,6 +19,7 @@ public:
     int getArraySize();
     bool viewFileData(string filename);
     void ediTask(string& filename,int index , int choice , string& update);
+    void deleteTask(string& fileName , int index);
 };
 
 

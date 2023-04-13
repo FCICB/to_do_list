@@ -13,7 +13,7 @@ void screen::run(string &fileName) {
     while(true){
         size_t choice;
         cout<<"Here is all the features that you have.\n";
-        cout<<"1. Add new tasks.\n2.Edit specific task.\n3. View tasks.\n4.Exit.\n";
+        cout<<"1. Add new tasks.\n2.Edit specific task.\n3. View tasks.\n4.delete specific task\n5.Exit.\n";
         cout<<"enter the feature you want to try.\n";
         cin>>choice;
         if(choice == 1){
@@ -31,6 +31,11 @@ void screen::run(string &fileName) {
         }
         else if(choice == 3){
             viewData(ToDoList,fileName);
+        }
+        else if(choice == 4){
+            cout<<"please enter the index to be deleted.";
+            int index;cin>>index;
+            ToDoList.deleteTask(fileName,index);
         }
         else break;
 
@@ -69,7 +74,7 @@ void screen::editTasks(list& ToDoList,string& fileName) {
     int index ,choice;
     cout<<"enter the index to modify:\n";cin>>index;
     cout<<"=============================================\n";
-    cout<<"1. modify description,\n 2. modify due date,\n 3. modify status.\n";
+    cout<<"1. modify description,\n2. modify due date,\n3. modify status.\n";
     cin>>choice;
     string update;
     if(choice == 1){

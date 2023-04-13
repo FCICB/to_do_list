@@ -3,7 +3,7 @@ algorithm
 completed
 discrete math
 4/5
-under progress
+completed
 data compression
 7/8
 under progress
@@ -19,6 +19,6 @@ completed
 math3
 2/2
 completed
-ds
-1/1
-completed
+electronics
+9/9
+under progress
