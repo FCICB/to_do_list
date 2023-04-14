@@ -69,7 +69,7 @@ task fileHandling::ediTask(string& filename,int index , int choice , string& upd
         return oldTask;
     }
     else {
-        myFile.close();throw invalid_argument("file can not be opened.");
+        myFile.close();throw runtime_error("file can not be opened.");
     }
 
 

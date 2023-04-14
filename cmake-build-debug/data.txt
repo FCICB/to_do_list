@@ -4,9 +4,6 @@ completed
 discrete math
 4/5
 completed
-data compression
-7/8
-under progress
 operating system
 5/5
 completed
@@ -22,3 +19,12 @@ completed
 electronics
 9/9
 under progress
+data compression
+2/2
+under progress
+math2
+4/5
+completed
+technical writing
+5/7
+comleted
