@@ -15,7 +15,6 @@ class fileHandling {
 public:
     bool getFileData(string filename,vector<task>&arr );
     bool writeDataToFile(string filename, vector<task>&arr);
-    task ediTask(string& filename,int index , int choice , string& update,vector<task> &arr);
 };
 
 

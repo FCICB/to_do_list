@@ -13,14 +13,8 @@ completed
 artificial intelligance
 3/3
 completed
-math3
-2/2
-completed
 electronics
 9/9
-under progress
-data compression
-2/2
 under progress
 math2
 4/5
@@ -28,3 +22,9 @@ completed
 technical writing
 5/7
 comleted
+math3
+3/3
+under progress
+stat1 
+1/9
+completed

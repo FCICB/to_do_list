@@ -43,7 +43,9 @@ void screen::run(string &fileName)
             int index;cin>>index;
             ToDoList.deleteTask(fileName,index);
         }
-        else break;
+        else if(choice == 5)break;
+        else throw invalid_argument("You have entered an invalid input please enter a number between 1 and 5.");
+
 
     }
     cout<<"End of program!\nThanks for using our list.\n";
@@ -105,7 +107,6 @@ void screen::editTasks(list& ToDoList,string& fileName)
         cin.ignore();
         getline(cin,update);
     }
-    else cout<<"invalid input, please enter valid one.\n";
     try
     {
         ToDoList.ediTask(fileName,index,choice,update);
