@@ -1,5 +1,5 @@
-algorithm
-1/1
+stat1 
+1/9
 completed
 discrete math
 4/5
@@ -10,21 +10,21 @@ completed
 statistics 2
 3/4
 completed
-artificial intelligance
-3/3
+math2
+4/5
 completed
 electronics
 9/9
 under progress
-math2
-4/5
+artificial intelligance
+3/3
 completed
-technical writing
-5/7
-comleted
 math3
 3/3
 under progress
-stat1 
-1/9
+technical writing
+5/7
+comleted
+algorithm
+1/1
 completed

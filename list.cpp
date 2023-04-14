@@ -38,6 +38,7 @@ bool list::viewFileData(string filename)
         cout<<"task"<<i+1<<endl;cout<<arr[i]<<endl;
         cout<<"==================================";
     }
+    return true;
 }
 
 
@@ -78,4 +79,19 @@ void list::deleteTask(string &fileName, int index)
     test = handler.writeDataToFile(fileName,arr);
 
     if(!test) throw runtime_error("file can not be opened.");
+}
+
+
+void list::swapTasks(string &fileName, int firstIndex, int secondIndex)
+{
+    bool test = handler.getFileData(fileName,arr);
+
+    if(!test) throw runtime_error("file can not be opened.");
+
+    swap(arr[firstIndex-1] , arr[secondIndex-1]);
+
+    test = handler.writeDataToFile(fileName,arr);
+
+    if(!test) throw runtime_error("file can not be opened.");
+
 }

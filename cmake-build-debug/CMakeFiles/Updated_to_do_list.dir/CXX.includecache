@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/EGYPT/Music/FCICB/Updated to do list/fileHandling.cpp
-fileHandling.h
-C:/Users/EGYPT/Music/FCICB/Updated to do list/fileHandling.h
-
 C:/Users/EGYPT/Music/FCICB/Updated to do list/fileHandling.h
 string
 -
@@ -21,10 +17,6 @@ task.h
 C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
 fstream
 -
-
-C:/Users/EGYPT/Music/FCICB/Updated to do list/list.cpp
-list.h
-C:/Users/EGYPT/Music/FCICB/Updated to do list/list.h
 
 C:/Users/EGYPT/Music/FCICB/Updated to do list/list.h
 string
@@ -39,12 +31,6 @@ task.h
 C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
 fileHandling.h
 C:/Users/EGYPT/Music/FCICB/Updated to do list/fileHandling.h
-
-C:/Users/EGYPT/Music/FCICB/Updated to do list/main.cpp
-iostream
--
-screen.h
-C:/Users/EGYPT/Music/FCICB/Updated to do list/screen.h
 
 C:/Users/EGYPT/Music/FCICB/Updated to do list/screen.cpp
 screen.h
@@ -61,10 +47,6 @@ task.h
 C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
 list.h
 C:/Users/EGYPT/Music/FCICB/Updated to do list/list.h
-
-C:/Users/EGYPT/Music/FCICB/Updated to do list/task.cpp
-task.h
-C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
 
 C:/Users/EGYPT/Music/FCICB/Updated to do list/task.h
 string
